@@ -24,5 +24,6 @@
   "scripts": {
     "test": "grunt",
     "prepublish": "grunt dist"
-  }
+  },
+  "main": "dist/hidpi-canvas.js"
 }
